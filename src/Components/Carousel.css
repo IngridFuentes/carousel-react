@@ -34,3 +34,10 @@
     color: white;
     cursor: pointer;
 }
+.title {
+    font-size: 30px;
+    color: rgb(187, 92, 187);
+    text-shadow: rgb(78, 55, 78);
+    padding: 3px;
+    font-family: italic;
+}
